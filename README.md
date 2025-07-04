@@ -1,15 +1,15 @@
 
-# ChatGPT中文版：国内精选免费使用指南（支持GPT-4，GPT-4o，无需翻墙）【6月持续更新】
+# ChatGPT中文版：国内精选免费使用指南（支持GPT-4，GPT-4o，无需翻墙）【7月持续更新】
  
-> **更新时间： 2025/06/24**             
+> **更新时间： 2025/07/04**             
 
-本文提供全面的 **[ChatGPT 中文版](https://snakegpt.com.cn)** 使用教程，推荐国内镜像网站，支持最新的GPT-4o绘图与GPT-o4-mini模型，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://snakegpt.com.cn)**，提升工作效率和创作质量。
+本文提供全面的 **[ChatGPT 中文版](https://snakegpt.vip)** 使用教程，推荐国内镜像网站，支持最新的GPT-4o绘图与GPT-o4-mini模型，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://snakegpt.com.cn)**，提升工作效率和创作质量。
 
-本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.com.cn)** 使用指南，整理了多个国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，满足个人与专业需求。 
+本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.vip)** 使用指南，整理了多个国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，满足个人与专业需求。 
 
 快速开始 - 推荐的 ChatGPT 中文版服务： 
 
-ChatGPT 中文版：**[snakegpt.com.cn](https://snakegpt.com.cn)**  
+ChatGPT 中文版：**[snakegpt.vip](https://snakegpt.vip)**  
 ChatGPT 镜像网站：**[gptcat.cc](https://gptcat.cc)**
 
 ---
@@ -29,7 +29,7 @@ ChatGPT 镜像网站：**[gptcat.cc](https://gptcat.cc)**
 
 ## 什么是 ChatGPT 中文版？
 
-**[ChatGPT 中文版](https://snakegpt.com.cn)** 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
+**[ChatGPT 中文版](https://snakegpt.vip)** 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
 与官方 ChatGPT 相比，中文版在以下方面更适合国内用户：
 
 - **中文支持**：更流畅的中文对话能力，适合学习、办公和日常使用。
@@ -44,7 +44,7 @@ ChatGPT 镜像网站：**[gptcat.cc](https://gptcat.cc)**
 
 | **镜像站地址**       | **支持版本**                | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|----------------------------|--------------|---------------------|------------|---------------------------------------------|
-| [snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4o, GPT-4, GPT-3.5，GPT-o3 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o绘图，适合开发者与普通用户 |
+| [snakegpt.com.cn](https://snakegpt.vip)   | GPT-4o, GPT-4, GPT-3.5，GPT-o3 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o绘图，适合开发者与普通用户 |
 | [gptcat.cc](https://gptcat.cc)         | GPT-4o，GPT-4，GPT-3.5，GPT-o4-mini | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o4-mini模型，内置丰富功能，稳定性高         |
 | [ai-panda.xyz](https://ai-panda.xyz/) | GPT-4，GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5         | 有              | 国内邮箱支持        | ⭐⭐⭐      | 简单易用，适合基础聊天用途                     |
